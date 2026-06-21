@@ -1,0 +1,26 @@
+{
+  "id": "xananode.alphabet",
+  "name": "XanaNode Alphabet Substrate",
+  "version": "0.1.0",
+  "namespace": "xananode.alphabet",
+  "description": "A tiny federated substrate sample with one trail through the alphabet and bundled media for every letter.",
+  "schema_version": "xananode-core@0.5.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kingc95/XanaNode-Alphabet-Substrate.git",
+    "default_branch": "main"
+  },
+  "sharing": {
+    "default_shareable": true,
+    "rules": [
+      {
+        "selector": {
+          "namespace": "xananode.alphabet"
+        },
+        "shareable": true,
+        "scope": "public",
+        "reason": "This sample substrate is intentionally public and portable."
+      }
+    ]
+  }
+}

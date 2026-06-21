@@ -1,0 +1,10 @@
+{
+  "id": "xananode.alphabet:trail/start-here",
+  "title": "Start Here",
+  "type": "trail",
+  "subtype": "alphabet_sequence",
+  "importance": 5,
+  "summary": "A simple trail through the alphabet from A to Z.",
+  "content": "This trail exists to make federation obvious. Clone the substrate, open it in Studio or Workspace, and follow the letters from A through Z while the media assets travel with the substrate.",
+  "relationships": []
+}

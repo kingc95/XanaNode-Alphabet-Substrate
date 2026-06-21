@@ -1,0 +1,10 @@
+{
+  "id": "xananode.alphabet:source/alphabet-sequence",
+  "title": "Alphabet Sequence",
+  "type": "source",
+  "subtype": "reference_sequence",
+  "importance": 3,
+  "summary": "The conventional English alphabet sequence used by this sample substrate.",
+  "rights_status": "public-domain",
+  "relationships": []
+}

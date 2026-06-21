@@ -1,0 +1,16 @@
+{
+  "id": "xananode.alphabet:item/letter-v",
+  "title": "Letter V",
+  "type": "item",
+  "subtype": "letter",
+  "importance": 4,
+  "summary": "V is letter 22 in the alphabet sample substrate.",
+  "content": "Letter V is included as both a node and a bundled media asset so tools can test portable substrate media without relying on remote files.",
+  "primary_media": "assets/media/alphabet/letter-v.svg",
+  "asset_path": "assets/media/alphabet/letter-v.svg",
+  "asset_role": "letter_card",
+  "media_type": "image",
+  "mime_type": "image/svg+xml",
+  "rights_status": "CC0",
+  "relationships": []
+}
