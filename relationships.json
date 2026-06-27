@@ -6,7 +6,7 @@
       "target": "xananode.alphabet:item/letter-a",
       "type": "starts_with",
       "summary": "The alphabet trail starts with A.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/alphabet-sequence-documents-start-here",
@@ -14,7 +14,7 @@
       "target": "xananode.alphabet:trail/start-here",
       "type": "documents",
       "summary": "The source documents the sequence used by the trail.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-a-derived-from-alphabet-sequence",
@@ -22,7 +22,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter A is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-a-continues-to-letter-b",
@@ -30,7 +30,7 @@
       "target": "xananode.alphabet:item/letter-b",
       "type": "continues_to",
       "summary": "The alphabet trail continues from A to B.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-b-derived-from-alphabet-sequence",
@@ -38,7 +38,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter B is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-b-continues-to-letter-c",
@@ -46,7 +46,7 @@
       "target": "xananode.alphabet:item/letter-c",
       "type": "continues_to",
       "summary": "The alphabet trail continues from B to C.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-c-derived-from-alphabet-sequence",
@@ -54,7 +54,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter C is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-c-continues-to-letter-d",
@@ -62,7 +62,7 @@
       "target": "xananode.alphabet:item/letter-d",
       "type": "continues_to",
       "summary": "The alphabet trail continues from C to D.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-d-derived-from-alphabet-sequence",
@@ -70,7 +70,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter D is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-d-continues-to-letter-e",
@@ -78,7 +78,7 @@
       "target": "xananode.alphabet:item/letter-e",
       "type": "continues_to",
       "summary": "The alphabet trail continues from D to E.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-e-derived-from-alphabet-sequence",
@@ -86,7 +86,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter E is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-e-continues-to-letter-f",
@@ -94,7 +94,7 @@
       "target": "xananode.alphabet:item/letter-f",
       "type": "continues_to",
       "summary": "The alphabet trail continues from E to F.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-f-derived-from-alphabet-sequence",
@@ -102,7 +102,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter F is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-f-continues-to-letter-g",
@@ -110,7 +110,7 @@
       "target": "xananode.alphabet:item/letter-g",
       "type": "continues_to",
       "summary": "The alphabet trail continues from F to G.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-g-derived-from-alphabet-sequence",
@@ -118,7 +118,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter G is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-g-continues-to-letter-h",
@@ -126,7 +126,7 @@
       "target": "xananode.alphabet:item/letter-h",
       "type": "continues_to",
       "summary": "The alphabet trail continues from G to H.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-h-derived-from-alphabet-sequence",
@@ -134,7 +134,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter H is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-h-continues-to-letter-i",
@@ -142,7 +142,7 @@
       "target": "xananode.alphabet:item/letter-i",
       "type": "continues_to",
       "summary": "The alphabet trail continues from H to I.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-i-derived-from-alphabet-sequence",
@@ -150,7 +150,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter I is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-i-continues-to-letter-j",
@@ -158,7 +158,7 @@
       "target": "xananode.alphabet:item/letter-j",
       "type": "continues_to",
       "summary": "The alphabet trail continues from I to J.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-j-derived-from-alphabet-sequence",
@@ -166,7 +166,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter J is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-j-continues-to-letter-k",
@@ -174,7 +174,7 @@
       "target": "xananode.alphabet:item/letter-k",
       "type": "continues_to",
       "summary": "The alphabet trail continues from J to K.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-k-derived-from-alphabet-sequence",
@@ -182,7 +182,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter K is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-k-continues-to-letter-l",
@@ -190,7 +190,7 @@
       "target": "xananode.alphabet:item/letter-l",
       "type": "continues_to",
       "summary": "The alphabet trail continues from K to L.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-l-derived-from-alphabet-sequence",
@@ -198,7 +198,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter L is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-l-continues-to-letter-m",
@@ -206,7 +206,7 @@
       "target": "xananode.alphabet:item/letter-m",
       "type": "continues_to",
       "summary": "The alphabet trail continues from L to M.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-m-derived-from-alphabet-sequence",
@@ -214,7 +214,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter M is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-m-continues-to-letter-n",
@@ -222,7 +222,7 @@
       "target": "xananode.alphabet:item/letter-n",
       "type": "continues_to",
       "summary": "The alphabet trail continues from M to N.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-n-derived-from-alphabet-sequence",
@@ -230,7 +230,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter N is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-n-continues-to-letter-o",
@@ -238,7 +238,7 @@
       "target": "xananode.alphabet:item/letter-o",
       "type": "continues_to",
       "summary": "The alphabet trail continues from N to O.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-o-derived-from-alphabet-sequence",
@@ -246,7 +246,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter O is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-o-continues-to-letter-p",
@@ -254,7 +254,7 @@
       "target": "xananode.alphabet:item/letter-p",
       "type": "continues_to",
       "summary": "The alphabet trail continues from O to P.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-p-derived-from-alphabet-sequence",
@@ -262,7 +262,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter P is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-p-continues-to-letter-q",
@@ -270,7 +270,7 @@
       "target": "xananode.alphabet:item/letter-q",
       "type": "continues_to",
       "summary": "The alphabet trail continues from P to Q.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-q-derived-from-alphabet-sequence",
@@ -278,7 +278,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter Q is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-q-continues-to-letter-r",
@@ -286,7 +286,7 @@
       "target": "xananode.alphabet:item/letter-r",
       "type": "continues_to",
       "summary": "The alphabet trail continues from Q to R.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-r-derived-from-alphabet-sequence",
@@ -294,7 +294,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter R is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-r-continues-to-letter-s",
@@ -302,7 +302,7 @@
       "target": "xananode.alphabet:item/letter-s",
       "type": "continues_to",
       "summary": "The alphabet trail continues from R to S.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-s-derived-from-alphabet-sequence",
@@ -310,7 +310,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter S is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-s-continues-to-letter-t",
@@ -318,7 +318,7 @@
       "target": "xananode.alphabet:item/letter-t",
       "type": "continues_to",
       "summary": "The alphabet trail continues from S to T.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-t-derived-from-alphabet-sequence",
@@ -326,7 +326,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter T is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-t-continues-to-letter-u",
@@ -334,7 +334,7 @@
       "target": "xananode.alphabet:item/letter-u",
       "type": "continues_to",
       "summary": "The alphabet trail continues from T to U.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-u-derived-from-alphabet-sequence",
@@ -342,7 +342,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter U is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-u-continues-to-letter-v",
@@ -350,7 +350,7 @@
       "target": "xananode.alphabet:item/letter-v",
       "type": "continues_to",
       "summary": "The alphabet trail continues from U to V.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-v-derived-from-alphabet-sequence",
@@ -358,7 +358,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter V is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-v-continues-to-letter-w",
@@ -366,7 +366,7 @@
       "target": "xananode.alphabet:item/letter-w",
       "type": "continues_to",
       "summary": "The alphabet trail continues from V to W.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-w-derived-from-alphabet-sequence",
@@ -374,7 +374,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter W is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-w-continues-to-letter-x",
@@ -382,7 +382,7 @@
       "target": "xananode.alphabet:item/letter-x",
       "type": "continues_to",
       "summary": "The alphabet trail continues from W to X.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-x-derived-from-alphabet-sequence",
@@ -390,7 +390,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter X is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-x-continues-to-letter-y",
@@ -398,7 +398,7 @@
       "target": "xananode.alphabet:item/letter-y",
       "type": "continues_to",
       "summary": "The alphabet trail continues from X to Y.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-y-derived-from-alphabet-sequence",
@@ -406,7 +406,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter Y is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-y-continues-to-letter-z",
@@ -414,7 +414,7 @@
       "target": "xananode.alphabet:item/letter-z",
       "type": "continues_to",
       "summary": "The alphabet trail continues from Y to Z.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     },
     {
       "id": "xananode.alphabet:rel/letter-z-derived-from-alphabet-sequence",
@@ -422,7 +422,7 @@
       "target": "xananode.alphabet:source/alphabet-sequence",
       "type": "derived_from",
       "summary": "Letter Z is part of the documented alphabet sequence.",
-      "asserted_at": "2026-06-25T14:24:42.948Z"
+      "asserted_at": "2026-06-27T07:05:44.386Z"
     }
   ]
 }
